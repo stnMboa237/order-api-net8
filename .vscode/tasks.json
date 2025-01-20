@@ -1,0 +1,53 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Clean OrdersApi",
+      "type": "shell",
+      "command": "dotnet",
+      "args": [
+        "clean",
+        "${workspaceFolder}/src/OrderSystem.Api/OrderSystem.Api.csproj"
+      ],
+      "group": "build",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "silent"  // Não mostrar na saída
+      }
+    },
+    {
+      "label": "Build OrdersApi",
+      "type": "shell",
+      "command": "dotnet",
+      "args": [
+        "build",
+        "${workspaceFolder}/src/OrderSystem.Api/OrderSystem.Api.csproj"
+      ],
+      "group": "build",
+      "problemMatcher": ["$msCompile"],
+      "dependsOn": ["Clean OrdersApi"],  // Executa o clean antes
+      "presentation": {
+        "reveal": "always"  // Sempre mostrar a saída
+      }
+    },
+    {
+      "label": "Open Swagger in Chrome",
+      "type": "shell",
+      "command": "open",
+      "args": [
+        "-a", "Google Chrome",
+        "http://localhost:5001/swagger"
+      ],
+      "dependsOn": ["Build OrdersApi"],  // Executa após o build
+      "presentation": {
+        "reveal": "silent"  // Não mostrar na saída
+      }
+    },
+    {
+      "label": "docker-compose-up",
+      "type": "shell",
+      "command": "docker compose up --build -d",
+      "problemMatcher": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Launch API",
+      "type": "coreclr",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/OrderSystem.Api/bin/Debug/net8.0/OrderSystem.Api.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/src/OrderSystem.Api",
+      "stopAtEntry": false,
+      "env": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "preLaunchTask": "Open Swagger in Chrome",  // Garante que o Swagger será aberto após o build    }
+    },
+    {
+      "name": "Docker .NET Core Attach",
+      "type": "docker",
+      "request": "attach",
+      "platform": "netCore",
+      "sourceFileMap": {
+        "/app/src/OrdersApi": "${workspaceFolder}/src/OrdersApi"
+      }
+    }
+    ]
+}
