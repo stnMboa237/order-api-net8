@@ -12,7 +12,7 @@
       "env": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
-      "preLaunchTask": "Open Swagger in Chrome",  // Garante que o Swagger será aberto após o build    }
+      "preLaunchTask": "Open Swagger in Chrome", 
     },
     {
       "name": "Docker .NET Core Attach",
@@ -20,7 +20,7 @@
       "request": "attach",
       "platform": "netCore",
       "sourceFileMap": {
-        "/app/src/OrdersApi": "${workspaceFolder}/src/OrdersApi"
+        "/app/src/OrderSystem.Api": "${workspaceFolder}/src/OrderSystem.Api"
       }
     }
     ]
