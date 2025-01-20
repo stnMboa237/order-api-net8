@@ -1,0 +1,11 @@
+/Users/benrainir/Documents/Concentrix/src/OrderSystem.Domain/bin/Debug/net8.0/OrderSystem.Domain.deps.json
+/Users/benrainir/Documents/Concentrix/src/OrderSystem.Domain/bin/Debug/net8.0/OrderSystem.Domain.dll
+/Users/benrainir/Documents/Concentrix/src/OrderSystem.Domain/bin/Debug/net8.0/OrderSystem.Domain.pdb
+/Users/benrainir/Documents/Concentrix/src/OrderSystem.Domain/obj/Debug/net8.0/OrderSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benrainir/Documents/Concentrix/src/OrderSystem.Domain/obj/Debug/net8.0/OrderSystem.Domain.AssemblyInfoInputs.cache
+/Users/benrainir/Documents/Concentrix/src/OrderSystem.Domain/obj/Debug/net8.0/OrderSystem.Domain.AssemblyInfo.cs
+/Users/benrainir/Documents/Concentrix/src/OrderSystem.Domain/obj/Debug/net8.0/OrderSystem.Domain.csproj.CoreCompileInputs.cache
+/Users/benrainir/Documents/Concentrix/src/OrderSystem.Domain/obj/Debug/net8.0/OrderSystem.Domain.dll
+/Users/benrainir/Documents/Concentrix/src/OrderSystem.Domain/obj/Debug/net8.0/refint/OrderSystem.Domain.dll
+/Users/benrainir/Documents/Concentrix/src/OrderSystem.Domain/obj/Debug/net8.0/OrderSystem.Domain.pdb
+/Users/benrainir/Documents/Concentrix/src/OrderSystem.Domain/obj/Debug/net8.0/ref/OrderSystem.Domain.dll

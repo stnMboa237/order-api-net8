@@ -1,0 +1,15 @@
+/Users/benrainir/Documents/Concentrix/src/OrderSystem.Application/bin/Debug/net8.0/OrderSystem.Application.deps.json
+/Users/benrainir/Documents/Concentrix/src/OrderSystem.Application/bin/Debug/net8.0/OrderSystem.Application.dll
+/Users/benrainir/Documents/Concentrix/src/OrderSystem.Application/bin/Debug/net8.0/OrderSystem.Application.pdb
+/Users/benrainir/Documents/Concentrix/src/OrderSystem.Application/bin/Debug/net8.0/OrderSystem.Domain.dll
+/Users/benrainir/Documents/Concentrix/src/OrderSystem.Application/bin/Debug/net8.0/OrderSystem.Domain.pdb
+/Users/benrainir/Documents/Concentrix/src/OrderSystem.Application/obj/Debug/net8.0/OrderSystem.Application.csproj.AssemblyReference.cache
+/Users/benrainir/Documents/Concentrix/src/OrderSystem.Application/obj/Debug/net8.0/OrderSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benrainir/Documents/Concentrix/src/OrderSystem.Application/obj/Debug/net8.0/OrderSystem.Application.AssemblyInfoInputs.cache
+/Users/benrainir/Documents/Concentrix/src/OrderSystem.Application/obj/Debug/net8.0/OrderSystem.Application.AssemblyInfo.cs
+/Users/benrainir/Documents/Concentrix/src/OrderSystem.Application/obj/Debug/net8.0/OrderSystem.Application.csproj.CoreCompileInputs.cache
+/Users/benrainir/Documents/Concentrix/src/OrderSystem.Application/obj/Debug/net8.0/OrderSys.2449CAEB.Up2Date
+/Users/benrainir/Documents/Concentrix/src/OrderSystem.Application/obj/Debug/net8.0/OrderSystem.Application.dll
+/Users/benrainir/Documents/Concentrix/src/OrderSystem.Application/obj/Debug/net8.0/refint/OrderSystem.Application.dll
+/Users/benrainir/Documents/Concentrix/src/OrderSystem.Application/obj/Debug/net8.0/OrderSystem.Application.pdb
+/Users/benrainir/Documents/Concentrix/src/OrderSystem.Application/obj/Debug/net8.0/ref/OrderSystem.Application.dll
