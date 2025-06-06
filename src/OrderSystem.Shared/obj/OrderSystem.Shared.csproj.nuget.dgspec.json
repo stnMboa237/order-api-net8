@@ -1,25 +1,34 @@
 {
   "format": 1,
   "restore": {
-    "/Users/benrainir/Documents/Concentrix-test/order-api-net8/src/OrderSystem.Shared/OrderSystem.Shared.csproj": {}
+    "C:\\Users\\sngassa\\source\\repos\\order-api-net8\\src\\OrderSystem.Shared\\OrderSystem.Shared.csproj": {}
   },
   "projects": {
-    "/Users/benrainir/Documents/Concentrix-test/order-api-net8/src/OrderSystem.Shared/OrderSystem.Shared.csproj": {
+    "C:\\Users\\sngassa\\source\\repos\\order-api-net8\\src\\OrderSystem.Shared\\OrderSystem.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/benrainir/Documents/Concentrix-test/order-api-net8/src/OrderSystem.Shared/OrderSystem.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\sngassa\\source\\repos\\order-api-net8\\src\\OrderSystem.Shared\\OrderSystem.Shared.csproj",
         "projectName": "OrderSystem.Shared",
-        "projectPath": "/Users/benrainir/Documents/Concentrix-test/order-api-net8/src/OrderSystem.Shared/OrderSystem.Shared.csproj",
-        "packagesPath": "/Users/benrainir/.nuget/packages/",
-        "outputPath": "/Users/benrainir/Documents/Concentrix-test/order-api-net8/src/OrderSystem.Shared/obj/",
+        "projectPath": "C:\\Users\\sngassa\\source\\repos\\order-api-net8\\src\\OrderSystem.Shared\\OrderSystem.Shared.csproj",
+        "packagesPath": "C:\\Users\\sngassa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sngassa\\source\\repos\\order-api-net8\\src\\OrderSystem.Shared\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/benrainir/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\sngassa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,7 +46,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -58,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.405/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

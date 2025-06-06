@@ -1,33 +1,42 @@
 {
   "format": 1,
   "restore": {
-    "/Users/benrainir/Documents/Concentrix-test/order-api-net8/src/OrderSystem.Application/OrderSystem.Application.csproj": {}
+    "C:\\Users\\sngassa\\source\\repos\\order-api-net8\\src\\OrderSystem.Application\\OrderSystem.Application.csproj": {}
   },
   "projects": {
-    "/Users/benrainir/Documents/Concentrix-test/order-api-net8/src/OrderSystem.Application/OrderSystem.Application.csproj": {
+    "C:\\Users\\sngassa\\source\\repos\\order-api-net8\\src\\OrderSystem.Application\\OrderSystem.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/benrainir/Documents/Concentrix-test/order-api-net8/src/OrderSystem.Application/OrderSystem.Application.csproj",
+        "projectUniqueName": "C:\\Users\\sngassa\\source\\repos\\order-api-net8\\src\\OrderSystem.Application\\OrderSystem.Application.csproj",
         "projectName": "OrderSystem.Application",
-        "projectPath": "/Users/benrainir/Documents/Concentrix-test/order-api-net8/src/OrderSystem.Application/OrderSystem.Application.csproj",
-        "packagesPath": "/Users/benrainir/.nuget/packages/",
-        "outputPath": "/Users/benrainir/Documents/Concentrix-test/order-api-net8/src/OrderSystem.Application/obj/",
+        "projectPath": "C:\\Users\\sngassa\\source\\repos\\order-api-net8\\src\\OrderSystem.Application\\OrderSystem.Application.csproj",
+        "packagesPath": "C:\\Users\\sngassa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sngassa\\source\\repos\\order-api-net8\\src\\OrderSystem.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/benrainir/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\sngassa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/benrainir/Documents/Concentrix-test/order-api-net8/src/OrderSystem.Domain/OrderSystem.Domain.csproj": {
-                "projectPath": "/Users/benrainir/Documents/Concentrix-test/order-api-net8/src/OrderSystem.Domain/OrderSystem.Domain.csproj"
+              "C:\\Users\\sngassa\\source\\repos\\order-api-net8\\src\\OrderSystem.Domain\\OrderSystem.Domain.csproj": {
+                "projectPath": "C:\\Users\\sngassa\\source\\repos\\order-api-net8\\src\\OrderSystem.Domain\\OrderSystem.Domain.csproj"
               }
             }
           }
@@ -41,7 +50,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -76,26 +86,35 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.405/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/benrainir/Documents/Concentrix-test/order-api-net8/src/OrderSystem.Domain/OrderSystem.Domain.csproj": {
+    "C:\\Users\\sngassa\\source\\repos\\order-api-net8\\src\\OrderSystem.Domain\\OrderSystem.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/benrainir/Documents/Concentrix-test/order-api-net8/src/OrderSystem.Domain/OrderSystem.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\sngassa\\source\\repos\\order-api-net8\\src\\OrderSystem.Domain\\OrderSystem.Domain.csproj",
         "projectName": "OrderSystem.Domain",
-        "projectPath": "/Users/benrainir/Documents/Concentrix-test/order-api-net8/src/OrderSystem.Domain/OrderSystem.Domain.csproj",
-        "packagesPath": "/Users/benrainir/.nuget/packages/",
-        "outputPath": "/Users/benrainir/Documents/Concentrix-test/order-api-net8/src/OrderSystem.Domain/obj/",
+        "projectPath": "C:\\Users\\sngassa\\source\\repos\\order-api-net8\\src\\OrderSystem.Domain\\OrderSystem.Domain.csproj",
+        "packagesPath": "C:\\Users\\sngassa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sngassa\\source\\repos\\order-api-net8\\src\\OrderSystem.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/benrainir/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\sngassa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -113,7 +132,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -134,7 +154,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.405/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

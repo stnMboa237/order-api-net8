@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "e7YNrki6N20=",
+  "dgSpecHash": "aXelYUQdt4Q=",
   "success": true,
-  "projectFilePath": "/Users/benrainir/Documents/Concentrix-test/order-api-net8/src/OrderSystem.Application/OrderSystem.Application.csproj",
+  "projectFilePath": "C:\\Users\\sngassa\\source\\repos\\order-api-net8\\src\\OrderSystem.Application\\OrderSystem.Application.csproj",
   "expectedPackageFiles": [
-    "/Users/benrainir/.nuget/packages/fluentvalidation/11.11.0/fluentvalidation.11.11.0.nupkg.sha512",
-    "/Users/benrainir/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.11.0/fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
-    "/Users/benrainir/.nuget/packages/mediatr/12.4.1/mediatr.12.4.1.nupkg.sha512",
-    "/Users/benrainir/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
-    "/Users/benrainir/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    "C:\\Users\\sngassa\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\sngassa\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
+    "C:\\Users\\sngassa\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\sngassa\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\sngassa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
